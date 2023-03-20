@@ -13,11 +13,14 @@ public class VectorExample {
 		}
 		
 		
+		
+		
 	}
 	
 	public static void main(String[] args) {
 		VectorExample e=new VectorExample();
 		e.addvector();
+		System.out.println(e);
 	}
 	
 
